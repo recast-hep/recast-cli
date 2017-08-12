@@ -1,6 +1,6 @@
 import click
 import json
-import recastusertools.import_analysis_data as import_analysis_data
+import recastcli.import_analysis_data as import_analysis_data
 
 @click.group()
 def recast():
