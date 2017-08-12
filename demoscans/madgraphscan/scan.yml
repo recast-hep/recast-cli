@@ -1,0 +1,90 @@
+additional_information: 'the most interesting points are the ones attached. Possibly
+  this scan could be extended in case the sensitivity is higher than expected.
+
+  '
+description: 'this model adds some particles and parameters
+
+  '
+parameters: [m1, m2]
+points:
+- coordinates: [200.0, 0.0]
+  data: data/200.0_0.0.zip
+- coordinates: [200.0, 100.0]
+  data: data/200.0_100.0.zip
+- coordinates: [200.0, 200.0]
+  data: data/200.0_200.0.zip
+- coordinates: [300.0, 0.0]
+  data: data/300.0_0.0.zip
+- coordinates: [300.0, 100.0]
+  data: data/300.0_100.0.zip
+- coordinates: [300.0, 200.0]
+  data: data/300.0_200.0.zip
+- coordinates: [300.0, 300.0]
+  data: data/300.0_300.0.zip
+- coordinates: [400.0, 0.0]
+  data: data/400.0_0.0.zip
+- coordinates: [400.0, 100.0]
+  data: data/400.0_100.0.zip
+- coordinates: [400.0, 200.0]
+  data: data/400.0_200.0.zip
+- coordinates: [400.0, 300.0]
+  data: data/400.0_300.0.zip
+- coordinates: [400.0, 400.0]
+  data: data/400.0_400.0.zip
+- coordinates: [500.0, 0.0]
+  data: data/500.0_0.0.zip
+- coordinates: [500.0, 100.0]
+  data: data/500.0_100.0.zip
+- coordinates: [500.0, 200.0]
+  data: data/500.0_200.0.zip
+- coordinates: [500.0, 300.0]
+  data: data/500.0_300.0.zip
+- coordinates: [500.0, 400.0]
+  data: data/500.0_400.0.zip
+- coordinates: [500.0, 500.0]
+  data: data/500.0_500.0.zip
+- coordinates: [600.0, 0.0]
+  data: data/600.0_0.0.zip
+- coordinates: [600.0, 100.0]
+  data: data/600.0_100.0.zip
+- coordinates: [600.0, 200.0]
+  data: data/600.0_200.0.zip
+- coordinates: [600.0, 300.0]
+  data: data/600.0_300.0.zip
+- coordinates: [600.0, 400.0]
+  data: data/600.0_400.0.zip
+- coordinates: [600.0, 500.0]
+  data: data/600.0_500.0.zip
+- coordinates: [700.0, 0.0]
+  data: data/700.0_0.0.zip
+- coordinates: [700.0, 100.0]
+  data: data/700.0_100.0.zip
+- coordinates: [700.0, 200.0]
+  data: data/700.0_200.0.zip
+- coordinates: [700.0, 300.0]
+  data: data/700.0_300.0.zip
+- coordinates: [700.0, 400.0]
+  data: data/700.0_400.0.zip
+- coordinates: [700.0, 500.0]
+  data: data/700.0_500.0.zip
+- coordinates: [800.0, 0.0]
+  data: data/800.0_0.0.zip
+- coordinates: [800.0, 100.0]
+  data: data/800.0_100.0.zip
+- coordinates: [800.0, 200.0]
+  data: data/800.0_200.0.zip
+- coordinates: [800.0, 300.0]
+  data: data/800.0_300.0.zip
+- coordinates: [800.0, 400.0]
+  data: data/800.0_400.0.zip
+- coordinates: [800.0, 500.0]
+  data: data/800.0_500.0.zip
+pubkey: cds/1525880
+reason: 'the original analysis only investigates simplified models. The branching
+  ratio of this particular complete model into the studied topologies is quite small,
+  so it would be interesting to understand what the true exlusions are.
+
+  '
+request_format: nevents_run_pars
+title: A 2D RECAST request
+type: recast_scan

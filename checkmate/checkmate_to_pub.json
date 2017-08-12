@@ -1,0 +1,42 @@
+{
+	"atlas_1308_2631": {
+		"pubtype": "inspire",
+		"pubid": "1247462"
+	},
+	"atlas_conf_2012_104": {
+		"pubtype": "cds",
+		"pubid": "1472673"
+	},
+	"atlas_conf_2012_147": {
+		"pubtype": "cds",
+		"pubid": "1493486"
+	},
+	"atlas_conf_2013_024": {
+		"pubtype": "cds",
+		"pubid": "1525880"
+	},
+	"atlas_conf_2013_035": {
+		"pubtype": "cds",
+		"pubid": "1532426"
+	},
+	"atlas_conf_2013_047": {
+		"pubtype": "cds",
+		"pubid": "1547563"
+	},
+	"atlas_conf_2013_049": {
+		"pubtype": "cds",
+		"pubid": "1547565"
+	},
+	"atlas_conf_2013_049": {
+		"pubtype": "cds",
+		"pubid": "1547565"
+	},
+	"atlas_conf_2013_061": {
+		"pubtype": "cds",
+		"pubid": "1557778"
+	},
+	"atlas_conf_2013_089": {
+		"pubtype": "cds",
+		"pubid": "1595272"
+	}
+}

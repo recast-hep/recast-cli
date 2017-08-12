@@ -1,0 +1,31 @@
+basic_requests:
+- id: 378
+  point: &id001
+    mGluino: 150.0
+    mSinglino: 150.0
+  point_request: 408
+- id: 379
+  point: &id002
+    mGluino: 150.0
+    mSinglino: 200.0
+  point_request: 409
+- id: 380
+  point: &id003
+    mGluino: 200.0
+    mSinglino: 150.0
+  point_request: 410
+- id: 381
+  point: &id004
+    mGluino: 200.0
+    mSinglino: 200.0
+  point_request: 411
+point_requests:
+- id: 408
+  point: *id001
+- id: 409
+  point: *id002
+- id: 410
+  point: *id003
+- id: 411
+  point: *id004
+scan_id: 25

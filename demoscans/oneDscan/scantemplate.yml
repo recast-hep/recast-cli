@@ -1,0 +1,17 @@
+type: recast_scan
+title: A one-dimensional RECAST
+pubkey: arxiv/1502.05686
+request_format: special1
+description: |
+  this model adds some particles and parameters
+reason: >
+  the original analysis only investigates simplified models. The
+  branching ratio of this particular complete model into the
+  studied topologies is quite small, so it would be interesting
+  to understand what the true exlusions are.
+additional_information: >
+  the most interesting points are the ones attached. Possibly this
+  scan could be extended in case the sensitivity is higher than
+  expected.
+parameters: []
+points: []

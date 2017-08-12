@@ -1,0 +1,312 @@
+additional_information: 'the most interesting points are the ones attached. Possibly
+  this scan could be extended in case the sensitivity is higher than expected.
+
+  '
+description: 'this model adds some particles and parameters
+
+  '
+parameters: [m1, m2, m3]
+points:
+- coordinates: [200.0, 0.0, 0.0]
+  data: data/200.0_0.0_0.0.zip
+- coordinates: [200.0, 0.0, 10.0]
+  data: data/200.0_0.0_10.0.zip
+- coordinates: [200.0, 0.0, 20.0]
+  data: data/200.0_0.0_20.0.zip
+- coordinates: [200.0, 33.333333333333336, 0.0]
+  data: data/200.0_33.3333333333_0.0.zip
+- coordinates: [200.0, 33.333333333333336, 10.0]
+  data: data/200.0_33.3333333333_10.0.zip
+- coordinates: [200.0, 33.333333333333336, 20.0]
+  data: data/200.0_33.3333333333_20.0.zip
+- coordinates: [200.0, 66.66666666666667, 0.0]
+  data: data/200.0_66.6666666667_0.0.zip
+- coordinates: [200.0, 66.66666666666667, 10.0]
+  data: data/200.0_66.6666666667_10.0.zip
+- coordinates: [200.0, 66.66666666666667, 20.0]
+  data: data/200.0_66.6666666667_20.0.zip
+- coordinates: [200.0, 100.0, 0.0]
+  data: data/200.0_100.0_0.0.zip
+- coordinates: [200.0, 100.0, 10.0]
+  data: data/200.0_100.0_10.0.zip
+- coordinates: [200.0, 100.0, 20.0]
+  data: data/200.0_100.0_20.0.zip
+- coordinates: [200.0, 133.33333333333334, 0.0]
+  data: data/200.0_133.333333333_0.0.zip
+- coordinates: [200.0, 133.33333333333334, 10.0]
+  data: data/200.0_133.333333333_10.0.zip
+- coordinates: [200.0, 133.33333333333334, 20.0]
+  data: data/200.0_133.333333333_20.0.zip
+- coordinates: [200.0, 166.66666666666669, 0.0]
+  data: data/200.0_166.666666667_0.0.zip
+- coordinates: [200.0, 166.66666666666669, 10.0]
+  data: data/200.0_166.666666667_10.0.zip
+- coordinates: [200.0, 166.66666666666669, 20.0]
+  data: data/200.0_166.666666667_20.0.zip
+- coordinates: [200.0, 200.0, 0.0]
+  data: data/200.0_200.0_0.0.zip
+- coordinates: [200.0, 200.0, 10.0]
+  data: data/200.0_200.0_10.0.zip
+- coordinates: [200.0, 200.0, 20.0]
+  data: data/200.0_200.0_20.0.zip
+- coordinates: [300.0, 0.0, 0.0]
+  data: data/300.0_0.0_0.0.zip
+- coordinates: [300.0, 0.0, 10.0]
+  data: data/300.0_0.0_10.0.zip
+- coordinates: [300.0, 0.0, 20.0]
+  data: data/300.0_0.0_20.0.zip
+- coordinates: [300.0, 33.333333333333336, 0.0]
+  data: data/300.0_33.3333333333_0.0.zip
+- coordinates: [300.0, 33.333333333333336, 10.0]
+  data: data/300.0_33.3333333333_10.0.zip
+- coordinates: [300.0, 33.333333333333336, 20.0]
+  data: data/300.0_33.3333333333_20.0.zip
+- coordinates: [300.0, 66.66666666666667, 0.0]
+  data: data/300.0_66.6666666667_0.0.zip
+- coordinates: [300.0, 66.66666666666667, 10.0]
+  data: data/300.0_66.6666666667_10.0.zip
+- coordinates: [300.0, 66.66666666666667, 20.0]
+  data: data/300.0_66.6666666667_20.0.zip
+- coordinates: [300.0, 100.0, 0.0]
+  data: data/300.0_100.0_0.0.zip
+- coordinates: [300.0, 100.0, 10.0]
+  data: data/300.0_100.0_10.0.zip
+- coordinates: [300.0, 100.0, 20.0]
+  data: data/300.0_100.0_20.0.zip
+- coordinates: [300.0, 133.33333333333334, 0.0]
+  data: data/300.0_133.333333333_0.0.zip
+- coordinates: [300.0, 133.33333333333334, 10.0]
+  data: data/300.0_133.333333333_10.0.zip
+- coordinates: [300.0, 133.33333333333334, 20.0]
+  data: data/300.0_133.333333333_20.0.zip
+- coordinates: [300.0, 166.66666666666669, 0.0]
+  data: data/300.0_166.666666667_0.0.zip
+- coordinates: [300.0, 166.66666666666669, 10.0]
+  data: data/300.0_166.666666667_10.0.zip
+- coordinates: [300.0, 166.66666666666669, 20.0]
+  data: data/300.0_166.666666667_20.0.zip
+- coordinates: [300.0, 200.0, 0.0]
+  data: data/300.0_200.0_0.0.zip
+- coordinates: [300.0, 200.0, 10.0]
+  data: data/300.0_200.0_10.0.zip
+- coordinates: [300.0, 200.0, 20.0]
+  data: data/300.0_200.0_20.0.zip
+- coordinates: [400.0, 0.0, 0.0]
+  data: data/400.0_0.0_0.0.zip
+- coordinates: [400.0, 0.0, 10.0]
+  data: data/400.0_0.0_10.0.zip
+- coordinates: [400.0, 0.0, 20.0]
+  data: data/400.0_0.0_20.0.zip
+- coordinates: [400.0, 33.333333333333336, 0.0]
+  data: data/400.0_33.3333333333_0.0.zip
+- coordinates: [400.0, 33.333333333333336, 10.0]
+  data: data/400.0_33.3333333333_10.0.zip
+- coordinates: [400.0, 33.333333333333336, 20.0]
+  data: data/400.0_33.3333333333_20.0.zip
+- coordinates: [400.0, 66.66666666666667, 0.0]
+  data: data/400.0_66.6666666667_0.0.zip
+- coordinates: [400.0, 66.66666666666667, 10.0]
+  data: data/400.0_66.6666666667_10.0.zip
+- coordinates: [400.0, 66.66666666666667, 20.0]
+  data: data/400.0_66.6666666667_20.0.zip
+- coordinates: [400.0, 100.0, 0.0]
+  data: data/400.0_100.0_0.0.zip
+- coordinates: [400.0, 100.0, 10.0]
+  data: data/400.0_100.0_10.0.zip
+- coordinates: [400.0, 100.0, 20.0]
+  data: data/400.0_100.0_20.0.zip
+- coordinates: [400.0, 133.33333333333334, 0.0]
+  data: data/400.0_133.333333333_0.0.zip
+- coordinates: [400.0, 133.33333333333334, 10.0]
+  data: data/400.0_133.333333333_10.0.zip
+- coordinates: [400.0, 133.33333333333334, 20.0]
+  data: data/400.0_133.333333333_20.0.zip
+- coordinates: [400.0, 166.66666666666669, 0.0]
+  data: data/400.0_166.666666667_0.0.zip
+- coordinates: [400.0, 166.66666666666669, 10.0]
+  data: data/400.0_166.666666667_10.0.zip
+- coordinates: [400.0, 166.66666666666669, 20.0]
+  data: data/400.0_166.666666667_20.0.zip
+- coordinates: [400.0, 200.0, 0.0]
+  data: data/400.0_200.0_0.0.zip
+- coordinates: [400.0, 200.0, 10.0]
+  data: data/400.0_200.0_10.0.zip
+- coordinates: [400.0, 200.0, 20.0]
+  data: data/400.0_200.0_20.0.zip
+- coordinates: [500.0, 0.0, 0.0]
+  data: data/500.0_0.0_0.0.zip
+- coordinates: [500.0, 0.0, 10.0]
+  data: data/500.0_0.0_10.0.zip
+- coordinates: [500.0, 0.0, 20.0]
+  data: data/500.0_0.0_20.0.zip
+- coordinates: [500.0, 33.333333333333336, 0.0]
+  data: data/500.0_33.3333333333_0.0.zip
+- coordinates: [500.0, 33.333333333333336, 10.0]
+  data: data/500.0_33.3333333333_10.0.zip
+- coordinates: [500.0, 33.333333333333336, 20.0]
+  data: data/500.0_33.3333333333_20.0.zip
+- coordinates: [500.0, 66.66666666666667, 0.0]
+  data: data/500.0_66.6666666667_0.0.zip
+- coordinates: [500.0, 66.66666666666667, 10.0]
+  data: data/500.0_66.6666666667_10.0.zip
+- coordinates: [500.0, 66.66666666666667, 20.0]
+  data: data/500.0_66.6666666667_20.0.zip
+- coordinates: [500.0, 100.0, 0.0]
+  data: data/500.0_100.0_0.0.zip
+- coordinates: [500.0, 100.0, 10.0]
+  data: data/500.0_100.0_10.0.zip
+- coordinates: [500.0, 100.0, 20.0]
+  data: data/500.0_100.0_20.0.zip
+- coordinates: [500.0, 133.33333333333334, 0.0]
+  data: data/500.0_133.333333333_0.0.zip
+- coordinates: [500.0, 133.33333333333334, 10.0]
+  data: data/500.0_133.333333333_10.0.zip
+- coordinates: [500.0, 133.33333333333334, 20.0]
+  data: data/500.0_133.333333333_20.0.zip
+- coordinates: [500.0, 166.66666666666669, 0.0]
+  data: data/500.0_166.666666667_0.0.zip
+- coordinates: [500.0, 166.66666666666669, 10.0]
+  data: data/500.0_166.666666667_10.0.zip
+- coordinates: [500.0, 166.66666666666669, 20.0]
+  data: data/500.0_166.666666667_20.0.zip
+- coordinates: [500.0, 200.0, 0.0]
+  data: data/500.0_200.0_0.0.zip
+- coordinates: [500.0, 200.0, 10.0]
+  data: data/500.0_200.0_10.0.zip
+- coordinates: [500.0, 200.0, 20.0]
+  data: data/500.0_200.0_20.0.zip
+- coordinates: [600.0, 0.0, 0.0]
+  data: data/600.0_0.0_0.0.zip
+- coordinates: [600.0, 0.0, 10.0]
+  data: data/600.0_0.0_10.0.zip
+- coordinates: [600.0, 0.0, 20.0]
+  data: data/600.0_0.0_20.0.zip
+- coordinates: [600.0, 33.333333333333336, 0.0]
+  data: data/600.0_33.3333333333_0.0.zip
+- coordinates: [600.0, 33.333333333333336, 10.0]
+  data: data/600.0_33.3333333333_10.0.zip
+- coordinates: [600.0, 33.333333333333336, 20.0]
+  data: data/600.0_33.3333333333_20.0.zip
+- coordinates: [600.0, 66.66666666666667, 0.0]
+  data: data/600.0_66.6666666667_0.0.zip
+- coordinates: [600.0, 66.66666666666667, 10.0]
+  data: data/600.0_66.6666666667_10.0.zip
+- coordinates: [600.0, 66.66666666666667, 20.0]
+  data: data/600.0_66.6666666667_20.0.zip
+- coordinates: [600.0, 100.0, 0.0]
+  data: data/600.0_100.0_0.0.zip
+- coordinates: [600.0, 100.0, 10.0]
+  data: data/600.0_100.0_10.0.zip
+- coordinates: [600.0, 100.0, 20.0]
+  data: data/600.0_100.0_20.0.zip
+- coordinates: [600.0, 133.33333333333334, 0.0]
+  data: data/600.0_133.333333333_0.0.zip
+- coordinates: [600.0, 133.33333333333334, 10.0]
+  data: data/600.0_133.333333333_10.0.zip
+- coordinates: [600.0, 133.33333333333334, 20.0]
+  data: data/600.0_133.333333333_20.0.zip
+- coordinates: [600.0, 166.66666666666669, 0.0]
+  data: data/600.0_166.666666667_0.0.zip
+- coordinates: [600.0, 166.66666666666669, 10.0]
+  data: data/600.0_166.666666667_10.0.zip
+- coordinates: [600.0, 166.66666666666669, 20.0]
+  data: data/600.0_166.666666667_20.0.zip
+- coordinates: [600.0, 200.0, 0.0]
+  data: data/600.0_200.0_0.0.zip
+- coordinates: [600.0, 200.0, 10.0]
+  data: data/600.0_200.0_10.0.zip
+- coordinates: [600.0, 200.0, 20.0]
+  data: data/600.0_200.0_20.0.zip
+- coordinates: [700.0, 0.0, 0.0]
+  data: data/700.0_0.0_0.0.zip
+- coordinates: [700.0, 0.0, 10.0]
+  data: data/700.0_0.0_10.0.zip
+- coordinates: [700.0, 0.0, 20.0]
+  data: data/700.0_0.0_20.0.zip
+- coordinates: [700.0, 33.333333333333336, 0.0]
+  data: data/700.0_33.3333333333_0.0.zip
+- coordinates: [700.0, 33.333333333333336, 10.0]
+  data: data/700.0_33.3333333333_10.0.zip
+- coordinates: [700.0, 33.333333333333336, 20.0]
+  data: data/700.0_33.3333333333_20.0.zip
+- coordinates: [700.0, 66.66666666666667, 0.0]
+  data: data/700.0_66.6666666667_0.0.zip
+- coordinates: [700.0, 66.66666666666667, 10.0]
+  data: data/700.0_66.6666666667_10.0.zip
+- coordinates: [700.0, 66.66666666666667, 20.0]
+  data: data/700.0_66.6666666667_20.0.zip
+- coordinates: [700.0, 100.0, 0.0]
+  data: data/700.0_100.0_0.0.zip
+- coordinates: [700.0, 100.0, 10.0]
+  data: data/700.0_100.0_10.0.zip
+- coordinates: [700.0, 100.0, 20.0]
+  data: data/700.0_100.0_20.0.zip
+- coordinates: [700.0, 133.33333333333334, 0.0]
+  data: data/700.0_133.333333333_0.0.zip
+- coordinates: [700.0, 133.33333333333334, 10.0]
+  data: data/700.0_133.333333333_10.0.zip
+- coordinates: [700.0, 133.33333333333334, 20.0]
+  data: data/700.0_133.333333333_20.0.zip
+- coordinates: [700.0, 166.66666666666669, 0.0]
+  data: data/700.0_166.666666667_0.0.zip
+- coordinates: [700.0, 166.66666666666669, 10.0]
+  data: data/700.0_166.666666667_10.0.zip
+- coordinates: [700.0, 166.66666666666669, 20.0]
+  data: data/700.0_166.666666667_20.0.zip
+- coordinates: [700.0, 200.0, 0.0]
+  data: data/700.0_200.0_0.0.zip
+- coordinates: [700.0, 200.0, 10.0]
+  data: data/700.0_200.0_10.0.zip
+- coordinates: [700.0, 200.0, 20.0]
+  data: data/700.0_200.0_20.0.zip
+- coordinates: [800.0, 0.0, 0.0]
+  data: data/800.0_0.0_0.0.zip
+- coordinates: [800.0, 0.0, 10.0]
+  data: data/800.0_0.0_10.0.zip
+- coordinates: [800.0, 0.0, 20.0]
+  data: data/800.0_0.0_20.0.zip
+- coordinates: [800.0, 33.333333333333336, 0.0]
+  data: data/800.0_33.3333333333_0.0.zip
+- coordinates: [800.0, 33.333333333333336, 10.0]
+  data: data/800.0_33.3333333333_10.0.zip
+- coordinates: [800.0, 33.333333333333336, 20.0]
+  data: data/800.0_33.3333333333_20.0.zip
+- coordinates: [800.0, 66.66666666666667, 0.0]
+  data: data/800.0_66.6666666667_0.0.zip
+- coordinates: [800.0, 66.66666666666667, 10.0]
+  data: data/800.0_66.6666666667_10.0.zip
+- coordinates: [800.0, 66.66666666666667, 20.0]
+  data: data/800.0_66.6666666667_20.0.zip
+- coordinates: [800.0, 100.0, 0.0]
+  data: data/800.0_100.0_0.0.zip
+- coordinates: [800.0, 100.0, 10.0]
+  data: data/800.0_100.0_10.0.zip
+- coordinates: [800.0, 100.0, 20.0]
+  data: data/800.0_100.0_20.0.zip
+- coordinates: [800.0, 133.33333333333334, 0.0]
+  data: data/800.0_133.333333333_0.0.zip
+- coordinates: [800.0, 133.33333333333334, 10.0]
+  data: data/800.0_133.333333333_10.0.zip
+- coordinates: [800.0, 133.33333333333334, 20.0]
+  data: data/800.0_133.333333333_20.0.zip
+- coordinates: [800.0, 166.66666666666669, 0.0]
+  data: data/800.0_166.666666667_0.0.zip
+- coordinates: [800.0, 166.66666666666669, 10.0]
+  data: data/800.0_166.666666667_10.0.zip
+- coordinates: [800.0, 166.66666666666669, 20.0]
+  data: data/800.0_166.666666667_20.0.zip
+- coordinates: [800.0, 200.0, 0.0]
+  data: data/800.0_200.0_0.0.zip
+- coordinates: [800.0, 200.0, 10.0]
+  data: data/800.0_200.0_10.0.zip
+- coordinates: [800.0, 200.0, 20.0]
+  data: data/800.0_200.0_20.0.zip
+pubkey: cds/2206134
+reason: 'the original analysis only investigates simplified models. The branching
+  ratio of this particular complete model into the studied topologies is quite small,
+  so it would be interesting to understand what the true exlusions are.
+
+  '
+request_format: hello_world
+title: A three-dimensional RECAST
+type: recast_scan

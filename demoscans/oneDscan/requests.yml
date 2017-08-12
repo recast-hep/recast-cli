@@ -1,0 +1,45 @@
+basic_requests:
+- id: 97
+  point: &id001
+    zPrime: 200.0
+  point_request: 124
+- id: 98
+  point: &id002
+    zPrime: 300.0
+  point_request: 125
+- id: 99
+  point: &id003
+    zPrime: 400.0
+  point_request: 126
+- id: 100
+  point: &id004
+    zPrime: 500.0
+  point_request: 127
+- id: 101
+  point: &id005
+    zPrime: 600.0
+  point_request: 128
+- id: 102
+  point: &id006
+    zPrime: 700.0
+  point_request: 129
+- id: 103
+  point: &id007
+    zPrime: 800.0
+  point_request: 130
+point_requests:
+- id: 124
+  point: *id001
+- id: 125
+  point: *id002
+- id: 126
+  point: *id003
+- id: 127
+  point: *id004
+- id: 128
+  point: *id005
+- id: 129
+  point: *id006
+- id: 130
+  point: *id007
+scan_id: 9

@@ -1,0 +1,25 @@
+type: recast_scan
+title: Reinterpretation of the crazy ATLAS analysis
+pubkey: arxiv/1502.05686
+request_format: lhe_files_xsec
+description: |
+  this model adds some particles and parameters
+reason: >
+  the original analysis only investigates simplified models. The
+  branching ratio of this particular complete model into the
+  studied topologies is quite small, so it would be interesting
+  to understand what the true exlusions are.
+additional_information: >
+  the most interesting points are the ones attached. Possibly this
+  scan could be extended in case the sensitivity is higher than
+  expected.
+parameters: [mGluino, mSinglino]
+points:
+- coordinates: [150.0, 150.0]
+  data: requestdata/point_150_150
+- coordinates: [150.0, 200.0]
+  data: requestdata/point_150_200
+- coordinates: [200.0, 150.0]
+  data: requestdata/point_200_150
+- coordinates: [200.0, 200.0]
+  data: requestdata/point_200_200

@@ -1,0 +1,32 @@
+additional_information: 'the most interesting points are the ones attached. Possibly
+  this scan could be extended in case the sensitivity is higher than expected.
+
+  '
+description: 'this model adds some particles and parameters
+
+  '
+parameters: [zPrime]
+points:
+- coordinates: [200.0]
+  data: data/200.0.zip
+- coordinates: [300.0]
+  data: data/300.0.zip
+- coordinates: [400.0]
+  data: data/400.0.zip
+- coordinates: [500.0]
+  data: data/500.0.zip
+- coordinates: [600.0]
+  data: data/600.0.zip
+- coordinates: [700.0]
+  data: data/700.0.zip
+- coordinates: [800.0]
+  data: data/800.0.zip
+pubkey: arxiv/1502.05686
+reason: 'the original analysis only investigates simplified models. The branching
+  ratio of this particular complete model into the studied topologies is quite small,
+  so it would be interesting to understand what the true exlusions are.
+
+  '
+request_format: special1
+title: A one-dimensional RECAST
+type: recast_scan
